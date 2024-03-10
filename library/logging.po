@@ -301,6 +301,10 @@ msgid ""
 "how you got to a certain point in your code, even when no exceptions were "
 "raised. The stack frames are printed following a header line which says:"
 msgstr ""
+"你可以單獨指定 *exc_info* 的 *stack_info* ，舉例來說，"
+"只顯示你如何能在程式中達到特定的點，就算沒有 exceptions 被 raised 。"
+"堆疊框架會根據標題行顯示時進行影印："
+
 
 #: ../../library/logging.rst:218 ../../library/logging.rst:1133
 msgid ""
